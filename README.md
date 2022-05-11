@@ -1,7 +1,7 @@
 # Developer X
 
-![Developer X]('img/developerX.gif')
-
+<img align="left"  src="img/developerX.gif" alt="Developer X">
+  
 ## Skills
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-White?color=blue&logo=python&logoColor=yellow"></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-White?color=blue&logo=css3&logoColor=white"></a>
